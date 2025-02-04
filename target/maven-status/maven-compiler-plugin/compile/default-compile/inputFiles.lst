@@ -7,9 +7,12 @@
 /home/denilson/Projects/Hefesto/src/main/java/models/DomainEvent.java
 /home/denilson/Projects/Hefesto/src/main/java/models/DTO.java
 /home/denilson/Projects/Hefesto/src/main/java/exception/ResultException.java
+/home/denilson/Projects/Hefesto/src/main/java/models/BaseController.java
 /home/denilson/Projects/Hefesto/src/main/java/models/Repository.java
 /home/denilson/Projects/Hefesto/src/main/java/validators/DataValidator.java
+/home/denilson/Projects/Hefesto/src/main/java/models/UserTokenInfoDTO.java
 /home/denilson/Projects/Hefesto/src/main/java/models/Model.java
 /home/denilson/Projects/Hefesto/src/main/java/validators/TypeValidator.java
+/home/denilson/Projects/Hefesto/src/main/java/interceptor/AuthInterceptor.java
 /home/denilson/Projects/Hefesto/src/main/java/validators/ValidatorParameters.java
 /home/denilson/Projects/Hefesto/src/main/java/models/Result.java

@@ -1,6 +1,7 @@
 models/Repository.class
 validators/Validator.class
 validators/ValidatorParameters.class
+models/UserTokenInfoDTO.class
 validators/DataValidator.class
 exception/ResultException.class
 models/DomainEvent.class
@@ -8,12 +9,15 @@ annotations/ResourcePermission.class
 validators/Validator$1.class
 constantes/ConstantesRegex.class
 models/ResultError.class
+models/UserTokenInfoDTO$UserTokenInfoDTOBuilder.class
 validators/Validator$ValidatorItem.class
 models/Result$ValueObject.class
 validators/TypeValidator.class
 models/DTO.class
+interceptor/AuthInterceptor.class
 models/Result.class
 models/DomainEntity.class
+models/BaseController.class
 models/Model.class
 validators/Validator$ValidatorResult.class
 models/AggregateRoot.class
